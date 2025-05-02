@@ -21,7 +21,7 @@
 ### Practical Exercises:
 1. Create a 3D array with six layers of a 4x2 matrix, filled with a decreasing sequence from 4.8 to 0.1.
 2. Extract and store the 4th and 1st row elements (in that order) of the 2nd column from all layers.
-3. Use a fourfold repetition of the 2nd row of the matrix from (2) to fill a 2x2x2 array.
+3. Use a fourfold repetition of the 2nd row of the matrix from (2) to fill a 2x2x2x3 array.
 4. Create a new array by removing the 6th layer from (1).
 5. Overwrite the 2nd and 4th row elements of the 2nd column in layers 1, 3, and 5 with `-99`.
 
